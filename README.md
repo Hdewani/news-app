@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+![image](https://github.com/Hdewani/news-app/assets/101696347/b877ecfc-e12a-4cad-a5f1-5b5835ab04d3)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
