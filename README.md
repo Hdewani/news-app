@@ -1,6 +1,5 @@
 # Getting Started with Create React App
 
-![image](https://github.com/Hdewani/news-app/assets/101696347/b877ecfc-e12a-4cad-a5f1-5b5835ab04d3)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -25,6 +24,11 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
+![image](https://github.com/Hdewani/news-app/assets/101696347/c9f348ed-273e-49f2-85b3-01d41801d085)
+
+![image](https://github.com/Hdewani/news-app/assets/101696347/944533f5-1d7a-4751-b438-45b7cb2f029b)
+![image](https://github.com/Hdewani/news-app/assets/101696347/dcd6cdcf-547f-4433-b46c-2d22d72921b1)
+
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
